@@ -5,7 +5,8 @@
 課程名稱   | 視窗程式設計 (使用 electron.js)
 開課單位   | 金門大學資訊工程系
 開課年度   | 106 年上學期
-學員姓名   | ccc
+學員姓名   | 朱英彰
+系級       | 工管二
 教師姓名   | 陳鍾誠
 上課教材   | [wiki](https://github.com/cccnqu/wp106a/wiki)
 程式範例   | [example](example)
